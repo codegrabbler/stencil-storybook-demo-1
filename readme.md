@@ -8,4 +8,4 @@ It works with the React integration of Stencil to be able to use the Stencil Com
 
 # Running this project
 
-In order to run this project, run `npm run build:watch` and for Storybook `npm run storybook`.
+To run this project, run `yarn start`
